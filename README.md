@@ -1,1 +1,1 @@
-# auto_barmen
+"Hello world"
